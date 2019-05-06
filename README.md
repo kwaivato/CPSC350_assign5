@@ -19,6 +19,8 @@ xiii. Student.h: a declared Student class that will be used to manage a database
 
 (Inline Comments) To run the programs in Docker using g++, type the following commands: 1) g++ *.cpp -o assign5 2) ./assign5 [FileName]
 
+(EASTER EGG) To see the Easter egg I wrote in the program, try to delete the last faculty member in the database WHILE that last faculty member has at least one advisee in the student tree.
+
 (Other Notes) I used inspiration from the following sources for the following topics:
 1) BST destructor: https://stackoverflow.com/questions/34170164/destructor-for-binary-search-tree
 2) Formatting cout output: https://www.youtube.com/watch?v=6MsGZw_2hjs
